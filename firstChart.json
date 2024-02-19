@@ -17,7 +17,7 @@
  
   "mark": {
     "type": "bar",
-    "color": "darkblue"},
+    "color": "red"},
  
   "encoding": {
     "x": {"field": "Country"},  
